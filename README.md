@@ -1,5 +1,5 @@
-# Pagekit Documentation
-This is the documentation for [Pagekit](https://pagekit.com), a modular open source CMS built with modern technologies.
+# Pagekit 文档
+这是 [Pagekit](https://pagekit.com) 的文档, 使用现代技术创建并开源模块化CMS.
 
 - Getting Started
   1. [Introduction](getting-started/introduction.md)
